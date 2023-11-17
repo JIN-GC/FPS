@@ -6,12 +6,12 @@ TagManager:
   tags:
   - CinemachineTarget
   - bullet
-  - Destruction_obj
-  - Indestructible_obj
-  - Structure_obj
   - Ground
   - Enemy
   - Inbound
+  - Structure_Obj
+  - Destructive_Obj
+  - Non_Destructive_Obj
   layers:
   - Default
   - TransparentFX
